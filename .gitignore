@@ -1,2 +1,19 @@
 *.class
 *.log
+*.metals
+*.classpath
+*.project
+*.settings/
+
+# sbt specific
+.cache/
+.history/
+.lib/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+*/target/*
+*/null/*
+*/project/*
+*/dist/*
