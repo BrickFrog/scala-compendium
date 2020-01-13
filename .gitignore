@@ -13,7 +13,10 @@ lib_managed/
 src_managed/
 project/boot/
 project/plugins/project/
-*/target/*
-*/null/*/*
-*/project/*
-*/dist/*
+*/target/
+*/null/*
+*/project/
+*/dist/
+*/src/null/*
+*/src/project/*
+*/src/target/*

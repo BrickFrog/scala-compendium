@@ -13,6 +13,6 @@ object Chapter02 {
   }
 
   def main(args: Array[String]): Unit = {
-      println(fib(0))
+      println(fib(4))
   }
 }
